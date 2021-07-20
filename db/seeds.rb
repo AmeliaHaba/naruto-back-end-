@@ -8,6 +8,7 @@
 
 Character.destroy_all
 
+
 Character.create!(
     name: "Naruto Uzumaki"
     bio: "Naruto is a young boy with blonde hair. Naruto has dreams of becoming Hokage one day. He is a powerful and confident ninja who posses the nine tailed fox within him."
