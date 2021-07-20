@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  bio: MyString
+  village: MyString
+  team: MyString
+  img: MyString
+  fav_charac: MyString
+  boolean: MyString
+
+two:
+  name: MyString
+  bio: MyString
+  village: MyString
+  team: MyString
+  img: MyString
+  fav_charac: MyString
+  boolean: MyString
